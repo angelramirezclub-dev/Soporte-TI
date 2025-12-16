@@ -1,0 +1,16 @@
+print("¡JUGUEMOS HISTORIAS LOCAS!")
+print("Vamos a crear una historia divertida")
+print("Ingresa la información que se te pide")
+    
+nombre = input("1. Ingresa un nombre: ")
+puesto = input("2. Escribe el nombre de un puesto de trabajo en plural: ")
+adj1 = input("3. Agrega una forma de describir a una persona: ")
+adjt2 = input("4. Agrega otra forma de describir a una persona: ")
+comida1 = input("5. Ingresa tu comida favorita: ")
+comida2 = input("6. Ingresa tu comida menos favorita: ")
+sentimiento = input("7. Ingresa un sentimiento: ")
+
+print(nombre, "ha comenzado hoy su primer curso de Generation. Se están formando como", puesto, )
+print("Su compañero les pareció muy", adj1, "pero su profesor era, cuando menos,", adjt2, )
+print("Para comer comen", comida1, "y", comida2, "mientras repasan sus notas.", )
+print("Sienten", sentimiento, "pero están decididos a completar el curso.", )

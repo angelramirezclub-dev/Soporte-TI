@@ -1,0 +1,18 @@
+print("¡JUGUEMOS HISTORIAS LOCAS!")
+print("Vamos a crear una historia divertida")
+print("Ingresa la información que se te pide")
+
+nombre = input("1. Ingresa un nombre: ")
+profesión = input("2. Escribe una profesión: ")
+lugar = input("3. Agrega un lugar: ")
+verbo = input("4. Escribe un verbo: ")
+objeto = input("5. Nombra un objeto: ")
+comida = input("6. Ingresa tu comida favorita: ")
+animal= input("7. Escribe el nombre de un animal: ")
+fraserandom = input("8.Agrega una frase sin sentido: ")
+adjetivo = input("9. Escribe un adjetivo: ")
+
+print(nombre, "soñó que era un/a", profesión, "en", lugar,)
+print("En el sueño, tenía que", verbo, "un", objeto, "gigante mientras comía", comida, )
+print("De repente, apareció un/a", animal, "que hablaba y dijo: ", fraserandom, )
+print("Al despertar, ", nombre, "se sintió completamente", adjetivo, )
